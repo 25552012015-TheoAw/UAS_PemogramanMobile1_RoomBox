@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RoomBox</string>
+    <string name="welcome_staff">Halo, Staf/Sekuriti!</string>
+    <string name="overdue_alert">Peringatan: Terdapat paket belum diambil > 3 hari!</string>
+</resources>
